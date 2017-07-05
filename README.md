@@ -1,2 +1,3 @@
-# ClassicASP-MSSQLSanitizer
-Provides functions to sanitize and validate data before insertion into a MSSQL database.
+*Cleaning out my hard drives; this project is not maintained.*
+
+Any and all documentation is inline with code.
